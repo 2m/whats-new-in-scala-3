@@ -33,6 +33,9 @@ scalafix to the rescue.
 
 <details>
 <dl>
+  <dt>Dependent Object Types paper</dt>
+  <dd>http://lampwww.epfl.ch/~amin/dot/fool.pdf</dd>
+
   <dt>Design discussions</dt>
   <dd>https://contributors.scala-lang.org/c/language-design</dd>
 
