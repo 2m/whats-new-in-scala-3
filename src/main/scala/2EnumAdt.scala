@@ -11,9 +11,7 @@ object EnumAdt {
   }
 
   def main(args: Array[String]): Unit = {
-    println(s"Roses are ${Color.Red}")
-    println(s"Violets are ${Color.Blue}")
-    println("Dotty is sweet")
-    println("And so are you")
+    println(s"When you mix ${Color.Red} and ${Color.Green}")
+    println(s"you get ${Color.Red add Color.Green}")
   }
 }
