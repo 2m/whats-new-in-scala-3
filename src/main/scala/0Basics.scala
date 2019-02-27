@@ -5,6 +5,7 @@ object Basics {
     println(s"Hello. I am here for $arguments")
 
     //println(42 == "42")
+    //auto-tupling
   }
 
 }
