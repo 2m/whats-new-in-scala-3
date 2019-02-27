@@ -32,7 +32,14 @@ scalafix to the rescue.
 ### Resources
 
 <details>
-Ten Cool Things You Can Do With Scala 3 by John Pretty https://vimeo.com/295103410
+<dl>
+  <dt>Design discussions</dt>
+  <dd>https://contributors.scala-lang.org/c/language-design</dd>
 
-Not only Scala 3 overview but also a cool demo of the upcoming Fury build tool.
+  <dt>Code, Tickets and Pull Requests</dt>
+  <dd>https://github.com/lampepfl/dotty/</dd>
+
+  <dt>Ten Cool Things You Can Do With Scala 3 by John Pretty https://vimeo.com/295103410</dt>
+  <dd>Not only Scala 3 overview but also a cool demo of the upcoming Fury build tool.</dd>
+</dl>
 </details>
