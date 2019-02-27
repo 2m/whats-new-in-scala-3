@@ -1,14 +1,38 @@
-* if then else
-* safer equality
+## What's New in Scala 2
 
-* enums
-* named type arguments
-* implicit function types
+### Dotty is to become Scala 3
 
-* type lambdas
-* dependent function types
+<details>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s official - Dotty will become Scala 3: <a href="https://t.co/XQ1IyiZbmc">https://t.co/XQ1IyiZbmc</a></p>&mdash; Martin Odersky (@odersky) <a href="https://twitter.com/odersky/status/987299855545655296?ref_src=twsrc%5Etfw">April 20, 2018</a></blockquote>
+</details>
 
-Ten Cool Things You Can Do With Scala 3
-https://vimeo.com/295103410
+### Motivation
+
+<details>
+Scala 3 new features address four major concerns:
+
+* Consistency - improve orthogonality and eliminate restrictions.
+* Safety - enable precise domain modeling and safe refactoring.
+* Ergonomics - support readable and concise code.
+* Performance - remove performance penalties for high-level code.
+
+http://dotty.epfl.ch/docs/reference/overview.html
+</details>
+
+### Timeline
+
+<details>
+Scala 2.13 is just around the corner.
+
+Scala 2.14 is to be a stepping stone towards Scala 3.
+
+scalafix to the rescue.
+</details>
+
+### Resources
+
+<details>
+Ten Cool Things You Can Do With Scala 3 by John Pretty https://vimeo.com/295103410
+
 Not only Scala 3 overview but also a cool demo of the upcoming Fury build tool.
-
+</details>
