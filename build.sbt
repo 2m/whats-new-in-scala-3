@@ -1,4 +1,4 @@
-val dottyVersion = "0.13.0-RC1"
+val dottyVersion = "0.14.0-bin-2019025-7343e23-NIGHTLY"
 
 lazy val `whats-new` = project
   .in(file("."))
