@@ -1,4 +1,4 @@
-## What's New in Scala 2
+## What's New in Scala 3
 
 ### Dotty is to become Scala 3
 
